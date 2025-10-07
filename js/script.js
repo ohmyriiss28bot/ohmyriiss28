@@ -12,10 +12,9 @@ function cancel(){
 // Animasi Menulis
 
 const texts = [
-    "JANGAN LUPA",
-    "FOLLOW",
-    "INSTAGRAM",
-    "@OHMYRIISS28"
+    "Follow",
+    "Instagram",
+    "@ohmyriiss28"
 ]
 
 let speed = 100;
