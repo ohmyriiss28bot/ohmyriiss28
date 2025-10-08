@@ -12,9 +12,10 @@ function cancel(){
 // Animasi Menulis
 
 const texts = [
-    "OMR28",
-    "Introvert",
-    "Riiss"
+    "Aku",
+    "Sayang",
+    "Sity",
+    "Muach😚"
 ]
 
 let speed = 100;
